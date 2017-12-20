@@ -1,0 +1,19 @@
+{
+  "name": "testgrunt",
+  "version": "1.0.0",
+  "description": "A demonstration in class on setting task runners",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickLediet/grunt-demo-inclass"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickLediet/grunt-demo-inclass/issues"
+  },
+  "homepage": "https://github.com/NickLediet/grunt-demo-inclass"
+}
