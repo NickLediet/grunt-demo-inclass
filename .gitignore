@@ -1,0 +1,9 @@
+
+# Packages for node.
+node_modules
+
+# Production Files
+dist
+
+# That weird mac file
+.DS_STORE
