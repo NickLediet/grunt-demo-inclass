@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NickLediet/grunt-demo-inclass/issues"
   },
-  "homepage": "https://github.com/NickLediet/grunt-demo-inclass"
+  "homepage": "https://github.com/NickLediet/grunt-demo-inclass",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
 }
