@@ -18,5 +18,8 @@
   "homepage": "https://github.com/NickLediet/grunt-demo-inclass",
   "dependencies": {
     "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1"
   }
 }
